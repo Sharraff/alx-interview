@@ -1,0 +1,1 @@
+## A simple script to pull out specific data form the the STARWARS API
